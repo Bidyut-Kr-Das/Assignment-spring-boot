@@ -127,6 +127,6 @@ Keyboard,1,75.00
 
 ##  Author
 
-* Name: \[Your Name]
-* GitHub: \[github.com/your-handle]
-* Company: Innotek Solution (Internship Project)
+* Name: \[Bidyut Kr. Das]
+* GitHub: \[github.com/bidyut-kr-das]
+
