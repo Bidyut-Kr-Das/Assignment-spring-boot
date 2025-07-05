@@ -90,6 +90,7 @@ Backend runs at: `http://localhost:9090`
 1. Install dependencies:
 
    ```bash
+   cd ..
    npm install
    ```
 
